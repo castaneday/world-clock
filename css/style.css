@@ -1,5 +1,5 @@
 body {
-  background-color: #f9f7fe;
+  background: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%) fixed;
   font-family: sans-serif;
 }
 h1 {
